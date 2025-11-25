@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fornd End`**
 
-Me chamo Wemerson, tenho 28 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonadO por tecnologia E UX Designer.
+Me chamo Wemerson, tenho 28 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e UX Designer.
 
 
 
