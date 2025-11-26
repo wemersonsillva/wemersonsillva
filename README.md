@@ -92,6 +92,15 @@ Sou Wemerson, 28 anos, estudante de Análise e Desenvolvimento de Sistemas na UN
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
 <br/>
 <br/>
 
