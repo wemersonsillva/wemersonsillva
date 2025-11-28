@@ -4,13 +4,13 @@
 
 Sou Wemerson, 28 anos, estudante de Análise e Desenvolvimento de Sistemas na UNINTER. Tenho paixão por tecnologia e estou construindo minha carreira como desenvolvedor, com foco em criar interfaces funcionais, intuitivas e centradas no usuário.
 <!-- Banner de capa estilizado -->
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/DaviAlbini/DaviAlbini/main/assets/banner-linkedin.png" width="100%" alt="Banner - Davi Albini"/>
-</p>
+</p>-->
 
 ### Tecnologias que uso
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=white)
