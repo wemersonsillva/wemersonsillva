@@ -1,6 +1,6 @@
 # 🧑‍💻 Wemerson Silva
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 
 Sou Wemerson, 28 anos, estudante de Análise e Desenvolvimento de Sistemas na UNINTER. Tenho paixão por tecnologia e estou construindo minha carreira como desenvolvedor, com foco em criar interfaces funcionais, intuitivas e centradas no usuário.
 
